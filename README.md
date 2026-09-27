@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Shayan<br>Frontend Developer crafting modern, high-performance web applications.<br>I care deeply about Clean Code and OOP principles. <br>Currently evolving into a Full-Stack Developer and also <br>working on diverse projects.<br>🌱 I’m currently learning<br>TypeScript & React<br>
+Hi 👋 I'm Shayan<br>Frontend Developer.<br>I care deeply about Clean Code and OOP principles. <br>Currently evolving into a Full-Stack Developer and also <br>working on diverse projects.<br>🌱 I’m currently learning<br>TypeScript & React<br>
 
 
 # 💻 Tech Stack:
